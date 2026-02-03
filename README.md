@@ -57,7 +57,7 @@
 ## 🌐 Connect With Me  
 
 <p align="left">
-  <a href="www.linkedin.com/in/vedika-mohite-8a7210380" target="_blank">
+   <a href="https://www.linkedin.com/in/vedika-mohite-8a7210380" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mohitevedika10@gmail.com">
